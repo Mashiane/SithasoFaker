@@ -5,7 +5,7 @@ SithasoFaker is a wrap of [faker.js](https://github.com/Marak/faker.js) for [BAN
 
 # Example Usage
 
-```
+```vb
   Sub BANano_Ready
 	Dim f As SithasoFaker
 	f.Initialize
